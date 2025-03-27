@@ -7,5 +7,3 @@ Projet simple pour pratiquer les bases du front-end.
 - HTML5
 - CSS3
 
-## 📸 Capture
-![Preview](preview.png)
